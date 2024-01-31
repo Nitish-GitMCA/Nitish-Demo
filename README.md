@@ -1,2 +1,4 @@
 # Nitish-Demo
-This iIs My First Repository.
+This is my first Repository.
+<br
+Author- Nitish Vishwakarma.
